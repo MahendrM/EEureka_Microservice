@@ -9,8 +9,6 @@
 	<packaging>jar</packaging>
 
 	
-	
-	
 	<name>EurekaServerProject</name>
 	<description>Eureka Server project for Spring Boot</description>
 
