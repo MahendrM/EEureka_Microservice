@@ -12,5 +12,7 @@ public class EurekaCont {
 	public String getEurekaServer()
 	{
 		return "success";
+		
+		
 	}	
 }
